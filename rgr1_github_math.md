@@ -177,11 +177,11 @@ c+\frac{1}{\lambda}=\bar{x}, \qquad \frac{1}{\lambda^2}=S^2
 - $\hat{\lambda}\approx 0.01353, \qquad \hat{c}\approx 12.79697$
 - $\hat{\lambda}\approx 0.01468, \qquad \hat{c}\approx 18.6$
 
-![x1_lambda_hist](plots/x1_lambda_hist.png)
+![x1_lambda_hist](plots/X1_lambda_hist.png)
 
 ---
 
-![x1_c_hist](plots/x1_c_hist.png)
+![x1_c_hist](plots/X1_c_hist.png)
 
 ---
 
@@ -220,12 +220,12 @@ E[X]=\frac{a+b}{2}, \qquad D[X]=\frac{(b-a)^2}{12}
 - $\hat{a}\approx 8.753 \qquad \hat{b}\approx 134.15211$
 - $\hat{a}\approx 13.23 \qquad \hat{b}\approx 134.33$
 
-![x2_a_hist](plots/x2_a_hist.png)
+![x2_a_hist](plots/X2_a_hist.png)
 
 ---
 
 
-![x2_b_hist](plots/x2_b_hist.png)
+![x2_b_hist](plots/X2_b_hist.png)
 
 ---
 
@@ -257,11 +257,11 @@ E[X]=\mu, \qquad D[X]=\sigma^2
 #### Сравнение
 
 Оба метода получают одинаковые значения 69.29 и 599.91 соответсвенно
-![x3_sigma_hist](plots/x3_sigma_hist.png)
+![x3_sigma_hist](plots/X3_sigma_hist.png)
 
 ---
 
-![x3_mu_hist](plots/x3_mu_hist.png)
+![x3_mu_hist](plots/X3_mu_hist.png)
 
 ---
 
